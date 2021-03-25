@@ -127,14 +127,14 @@ div.desc {
   background-position: center;
   background-size: contain;
 }
-.jumbotron 
-{
-    background-image: url(cafe.png);
-    height: 40vh;
-    background-size: cover;
-    background-position: center;
-    color: #ffffff;
-    border-radius: opx|importanat;
+.jumbotron {
+  background-image: url("cafe.png");
+  background-color: transparent;
+  margin-bottom: 0;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 }
 .jumbotron-image1{
   background-image: url(gedung.jpg);
